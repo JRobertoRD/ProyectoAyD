@@ -1,0 +1,1 @@
+<h1>PAGINA INVENTARIO</h1>
